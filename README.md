@@ -30,3 +30,10 @@ A simulated prolonged heat wave increased the number of beds required to prevent
 The sensitivity of our results to changes in admissions distributions highlight the circumstances to which our bed estimates can and cannot be extended. This demonstrates that our results are hospital, context-specific, such that recommendations for bed numbers at BIDMC cannot be directly translated to recommendations at other hospitals. In order to purpose recommendations for other hospitals, further research into how admissions distributions generalise across populations would be required. For example, how admission patterns are different in areas with different demographic, ethnic compositions, migrations, hospital openings or closures.
 
 Despite these limitations, we believe that this approach could be used by the BIDMC to support decisions about ICU bed resource allocation and additionally to any other hospital which has patient admission records available for distribution estimation. Specifically, the number of beds required per ICU to ensure capacity is not reached and also as part of a broader hospital resource allocation study to determine the tradeoffs associated with specialisation of ICU beds and under/over-utilisation of ICU resources.
+
+**Using this Repo**
+
+The data used in this project comes from: MIMIC-III, a freely accessible critical care database. Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). DOI: 10.1038/sdata.2016.35. Available from: http://www.nature.com/articles/sdata201635
+
+The sections include:
+ABM_results contains the Agent Based Model, simulations from which the results are graphed and the final graphs themselves.
