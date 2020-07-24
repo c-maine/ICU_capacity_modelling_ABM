@@ -36,4 +36,13 @@ Despite these limitations, we believe that this approach could be used by the BI
 The data used in this project comes from: MIMIC-III, a freely accessible critical care database. Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). DOI: 10.1038/sdata.2016.35. Available from: http://www.nature.com/articles/sdata201635
 
 The sections include:
+
 ABM_results contains the Agent Based Model, simulations from which the results are graphed and the final graphs themselves.
+
+Admissions_dists_estimation
+
+Data_processing
+
+LOS_prediction
+
+Sepsis_prediction
