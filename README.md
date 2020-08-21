@@ -37,11 +37,11 @@ The data used in this project comes from: MIMIC-III, a freely accessible critica
 
 The sections include:
 
-ABM_results contains the Agent Based Model, simulations from which the results are graphed and the final graphs themselves.
+[ABM_results](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/ABM_results) contains the Agent Based Model, simulations from which the results are graphed and the final graphs themselves.
 
 Admissions_dists_estimation
 
-Data_processing
+[Data_processing](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Data_processing)
 
 LOS_prediction
 
