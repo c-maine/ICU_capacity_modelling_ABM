@@ -8,7 +8,8 @@ The final project is available in PDF form [here](https://github.com/c-maine/ICU
 
 **Data sources**
 
-The data used in this project comes from: MIMIC-III, a freely accessible critical care database. Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). DOI: 10.1038/sdata.2016.35. Available from [here](http://www.nature.com/articles/sdata201635)
+The data used in this project comes from:
+- MIMIC-III, a freely accessible critical care database (Johnson AEW, Pollard TJ, Shen L, Lehman L, Feng M, Ghassemi M, Moody B, Szolovits P, Celi LA, and Mark RG. Scientific Data (2016). DOI: 10.1038/sdata.2016.35.) It is available from [here](http://www.nature.com/articles/sdata201635)
 
 **Using this repo**
 
