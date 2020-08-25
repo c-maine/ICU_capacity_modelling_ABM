@@ -24,3 +24,11 @@ This repo contains the code needed to replicate the results of the paper. It is 
 - LOS_prediction
 
 - Sepsis_prediction
+
+**Results**
+
+Jump straight to our results graphs in [this notebook](https://github.com/c-maine/ICU_capacity_modelling_ABM/blob/master/ABM_results/ABM_graphs_vF.ipynb).
+
+An example graph is included below.
+
+![alt text](https://github.com/c-maine/ICU_capacity_modelling_ABM/blob/master/peace_wh_dists.png)
