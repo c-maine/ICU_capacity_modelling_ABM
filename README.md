@@ -39,7 +39,7 @@ The sections include:
 
 [ABM_results](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/ABM_results) contains the Agent Based Model, simulations from which the results are graphed and the final graphs themselves.
 
-Admissions_dists_estimation
+[Admissions_dists_estimation](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Admissions_dists_estimation) in which we calculate the parameters defining the patient admissions distributions for each patient cluster/ICU combination. 
 
 [Data_processing](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Data_processing)
 
