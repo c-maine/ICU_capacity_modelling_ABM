@@ -14,12 +14,12 @@ The data used in this project comes from: MIMIC-III, a freely accessible critica
 
 This repo contains the code needed to replicate the results of the paper. It is structured into the following sections:
 
-[ABM_results](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/ABM_results) contains the Agent Based Model, simulations from which the results are graphed and the final graphs themselves.
+- [ABM_results](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/ABM_results) contains the Agent Based Model, simulations from which the results are graphed and the final graphs themselves.
 
-[Admissions_dists_estimation](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Admissions_dists_estimation) in which we calculate the parameters defining the patient admissions distributions for each patient cluster/ICU combination. 
+- [Admissions_dists_estimation](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Admissions_dists_estimation) in which we calculate the parameters defining the patient admissions distributions for each patient cluster/ICU combination. 
 
-[Data_processing](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Data_processing)
+- [Data_processing](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Data_processing)
 
-LOS_prediction
+- LOS_prediction
 
-Sepsis_prediction
+- Sepsis_prediction
