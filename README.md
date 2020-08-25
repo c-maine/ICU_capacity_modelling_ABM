@@ -2,7 +2,9 @@
 
 An Agent-Based Model for Intensive Care Unit capacity modelling at the Beth Israel Deaconess Medical Center
 
-The final project is avaiable in PDF form [here](https://github.com/c-maine/ICU_capacity_modelling_ABM/blob/master/Submitted_Thesis.pdf). 
+**Final paper**
+
+The final project is available in PDF form [here](https://github.com/c-maine/ICU_capacity_modelling_ABM/blob/master/Submitted_Thesis.pdf). 
 
 **Data sources**
 
