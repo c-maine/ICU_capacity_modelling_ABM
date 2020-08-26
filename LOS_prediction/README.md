@@ -11,7 +11,7 @@ In this notebook we use a machine learning approach to effectively capture sub- 
 
 
 #### Length of Stay - Machine learning prediction
-Based on the best $R^2$ score following hyperparameter tuning, we use a different machine learning model for each of the four clusters. 
+Based on the best R2 score following hyperparameter tuning, we use a different machine learning model for each of the four clusters. 
 
 The result is that our clustering method generates LOS distributions that are less sparse, and closely aligned with the expected LOS for each cluster, when compared to results without initial clustering. 
 
