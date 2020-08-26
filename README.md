@@ -19,9 +19,10 @@ This repo contains the code needed to replicate the results of the paper. It is 
 
 - [Admissions_dists_estimation](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Admissions_dists_estimation) in which we calculate the parameters defining the patient admissions distributions for each patient cluster/ICU combination. 
 
-- [Data_processing](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Data_processing)
+- [Data_processing](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/Data_processing) takes raw data from multiple sources and applies pre-processing  to generate output data that is used in the agent-based model
 
-- LOS_prediction
+- [LOS Prediction](https://github.com/c-maine/ICU_capacity_modelling_ABM/tree/master/LOS_prediction) contains the machine learning models used to capture sub- population dynamics in patient outflow
+
 
 - Sepsis_prediction
 
